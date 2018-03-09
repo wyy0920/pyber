@@ -1,2 +1,0 @@
-# pyber
-matplotlib homework
